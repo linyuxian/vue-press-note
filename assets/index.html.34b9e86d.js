@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e4cb1150","path":"/other/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"杂七杂八","slug":"杂七杂八","link":"#杂七杂八","children":[]}],"git":{"updatedTime":1670579417000,"contributors":[{"name":"linyuxian","email":"569705519@qq.com","commits":1}]},"filePathRelative":"other/README.md"}');export{e as data};

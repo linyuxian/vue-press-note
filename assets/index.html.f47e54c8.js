@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-74480d3e","path":"/ide/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"ide","slug":"ide","link":"#ide","children":[]}],"git":{"updatedTime":1670579417000,"contributors":[{"name":"linyuxian","email":"569705519@qq.com","commits":1}]},"filePathRelative":"ide/README.md"}');export{e as data};
